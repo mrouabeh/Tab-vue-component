@@ -28,4 +28,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Author and contact
 You can reach me at <mohamed.rouabehi.pro@gmail.com>
 
-(@mrouabeh)['https://github.com/mrouabeh']
+[@mrouabeh](https://github.com/mrouabeh)
