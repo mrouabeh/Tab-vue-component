@@ -2,20 +2,20 @@
   <div id="app">
     <header-top>Tab with Vue.js</header-top>
     <div class="container py-5">
-      <card></card>
+      <tab-component></tab-component>
     </div>
   </div>
 </template>
 
 <script>
 import Header from './components/Header'
-import Card from './components/Card'
+import TabComponent from './components/Tab'
 
 export default {
   name: 'App',
   components: {
     'header-top': Header,
-    'card': Card
+    'tab-component': TabComponent
   }
 }
 </script>

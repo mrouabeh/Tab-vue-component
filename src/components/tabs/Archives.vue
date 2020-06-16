@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<b-card-body>
-			<b-card-title>Third Tab</b-card-title>
+			<b-card-title>Archives Tab</b-card-title>
 			<b-card-text>
 				Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 				Molestias repellat placeat aliquam aliquid quaerat.

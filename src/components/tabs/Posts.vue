@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<b-card-body>
-			<b-card-title>Second Tab</b-card-title>
+			<b-card-title>Posts Tab</b-card-title>
 			<b-card-text>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit.
 				Molestias veniam velit a obcaecati facilis voluptatibus

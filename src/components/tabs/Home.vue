@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<b-card-body>
-			<b-card-title>First Tab</b-card-title>
+			<b-card-title>Home Tab</b-card-title>
 			<b-card-text>
 				Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 				Ab incidunt esse perspiciatis magni quas aliquid voluptatem
